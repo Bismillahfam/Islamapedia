@@ -30,23 +30,8 @@
               "icon": "lucide-file",
               "title": "The Quran"
             }
-          },
-          {
-            "id": "58edbda36e1f2e95",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://quran.com/",
-                "title": "The Noble Quran - Quran.com",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "The Noble Quran - Quran.com"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Quran.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for The Quran"
             }
           },
           {
@@ -137,11 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "The Quran.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from The Quran"
             }
           },
           {
@@ -165,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "The Quran.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of The Quran"
             }
           }
         ]
@@ -190,7 +178,7 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "58edbda36e1f2e95",
+  "active": "bd744c402659306d",
   "lastOpenFiles": [
     "The Quran.md",
     "Islam.canvas",
