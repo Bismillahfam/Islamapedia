@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "002f6946bfa86788",
+        "id": "525e51206d60a07b",
         "type": "tabs",
         "children": [
           {
-            "id": "8664a52665813395",
+            "id": "bd744c402659306d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation.md",
+                "file": "The Quran.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,25 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Documentation"
+              "title": "The Quran"
+            }
+          },
+          {
+            "id": "58edbda36e1f2e95",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://quran.com/",
+                "title": "The Noble Quran - Quran.com",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "The Noble Quran - Quran.com"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 236.500732421875
   },
   "right": {
     "id": "696225d7f6cb74d4",
@@ -104,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Documentation"
+              "title": "Backlinks"
             }
           },
           {
@@ -123,12 +137,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Documentation"
+              "title": "Outgoing links"
             }
           },
           {
@@ -152,13 +165,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Documentation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Documentation"
+              "title": "Outline"
             }
           }
         ]
@@ -174,18 +186,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "8664a52665813395",
+  "active": "58edbda36e1f2e95",
   "lastOpenFiles": [
-    "Templates/Atomic Template.md",
-    "Documentation.md",
+    "The Quran.md",
+    "Islam.canvas",
     "Templates/Source Template.md",
     "Templates/Index Template.md",
-    "Islam.canvas",
+    "Documentation.md",
+    "Templates/Atomic Template.md",
     "Templates",
-    "The Quran.md",
     "Welcome.md"
   ]
 }
