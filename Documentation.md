@@ -3,3 +3,4 @@
 
 # Github and Branches
 Open pull request from [Master] into [main] is for automatic updates to my discord server 
+Testing the make scenario rn
