@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Source Template.md",
+                "file": "The Quran.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Source Template"
+              "title": "The Quran"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Source Template.md",
+                "file": "The Quran.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Source Template"
+              "title": "Backlinks for The Quran"
             }
           },
           {
@@ -171,7 +171,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -191,8 +192,8 @@
   },
   "active": "bd744c402659306d",
   "lastOpenFiles": [
-    "Templates/Index Template.md",
     "Templates/Source Template.md",
+    "Templates/Index Template.md",
     "Templates/Atomic Template.md",
     "The Quran.md",
     "Documentation.md",
